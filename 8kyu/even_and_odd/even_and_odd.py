@@ -8,5 +8,3 @@ def even_and_odd(n):
     NO = int(NO) if len(NO) != 0 else 0
 
     return (NE, NO)
-    
-print(even_and_odd(2468))
