@@ -8,3 +8,5 @@ Write a function that accepts an array of 10 integers (between 0 and 9), that re
 The returned format must be correct in order to complete this challenge.
 
 Don't forget the space after the closing parentheses!
+
+*Useful Resource*: [Python String Format](https://www.youtube.com/watch?v=t35B5HjPm9Q)
